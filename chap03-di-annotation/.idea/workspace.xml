@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4076b3cd-c327-41c7-a6a3-2d4e80562b5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/common/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/common/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section01/test/KakaoLoginImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section01/test/NaverLoginImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section01/test/SnsLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section01/xmlconfig/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section02/javaconfig/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection01/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection01/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/java/com/ohgiraffers/section03/annotationconfig/subsection02/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-ioc/src/main/resources/section03/annotationconfig/subsection02/xml/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/common/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/common/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/common/PersonalAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/section01/xmlconfig/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/section02/javaconfig/Application02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/ohgiraffers/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/common/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/common/BookDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/common/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection01/field/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection01/field/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection02/constructor/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection02/constructor/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection03/setter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/subsection03/setter/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection01/primary/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection04/resource/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection04/resource/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/common/Charmander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/common/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/common/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/common/Squirtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_javascript" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_javascript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08_servlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../08_servlet" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2YpU6mIzgQtpc7SwxcPKizrCg2h" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/baekjonghwan/Downloads/Dev/09_spring/chap03-di-annotation/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection05/inject" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection04/resource" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection03/collection" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/annotation/subsection02/qualifier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.ohgiraffers.section02.annotation.subsection05.inject.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section01.subsection02.constructor.Application" />
+      <module name="chap03-di-annotation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section01.subsection02.constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" />
+      <module name="chap03-di-annotation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection02.qualifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.annotation.subsection03.collection.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection03.collection.Application" />
+      <module name="chap03-di-annotation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection03.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.annotation.subsection04.resource.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection04.resource.Application" />
+      <module name="chap03-di-annotation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection04.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.annotation.subsection05.inject.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.annotation.subsection05.inject.Application" />
+      <module name="chap03-di-annotation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.annotation.subsection05.inject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection05.inject.Application" />
+        <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection04.resource.Application" />
+        <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection03.collection.Application" />
+        <item itemvalue="Application.com.ohgiraffers.section02.annotation.subsection02.qualifier.Application" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4076b3cd-c327-41c7-a6a3-2d4e80562b5a" name="Changes" comment="" />
+      <created>1701221843102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701221843102</updated>
+      <workItem from="1701221844322" duration="11795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
